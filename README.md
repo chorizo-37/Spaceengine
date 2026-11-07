@@ -204,4 +204,4 @@ This repository serves as the official landing page for SpaceEngine. The softwar
 **Get the most recent version of SpaceEngine today!**
 
 ---
-**Last updated:** 2026-11-06 22:37:36 UTC
+**Last updated:** 2026-11-07 02:29:44 UTC
